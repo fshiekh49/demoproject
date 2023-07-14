@@ -1,0 +1,13 @@
+install node.js and npm with it 
+check both version to check if its thr
+give npm path to system path
+in vs code , give current project directory , initialize npm to download node packages by command "npm init"
+then install express framework(to connct front to backend) by command 
+"npm install express"
+
+
+to connect to db...to fetch and add data in postgres
+1. create a db and table for example in db 
+2. in vs , npm init -y , means initialize npm , -y means yes
+3.npm install pg ...this connects node with postgres
+4.after creating connection , run database.js
